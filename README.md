@@ -30,3 +30,6 @@ Steps:
     * Use Tableau's publishing feature to share your analysis with stakeholders or colleagues.
     * Get feedback on your analysis and make any necessary adjustments or improvements.
     * Repeat the process to update your analysis with new data or insights as needed.
+    
+    ![image](https://user-images.githubusercontent.com/70561045/236584304-92d1f8f1-7596-43e8-a989-c7d5300909cc.png)
+
