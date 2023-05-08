@@ -1,5 +1,5 @@
 # Rent v. Own in Austin, TX
-## Data Analytics project displaying Data Cleaning, EDA and Visualization skills
+## Data Analytics project displaying Data Cleaning, EDA, and Visualization skills
 ### Overview:
 #### Data Sets
    * Austin, TX House Listings: https://www.kaggle.com/datasets/ericpierce/austinhousingprices
