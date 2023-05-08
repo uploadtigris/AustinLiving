@@ -6,6 +6,12 @@
 #### Sites Webscraped 
    * Rent Prices: https://www.rentcafe.com/average-rent-market-trends/us/tx/austin/
    * Average Household Income: https://www.point2homes.com/US/Neighborhood/TX/Austin-Demographics.html
+
+#### Technoligies Used
+   * Python
+   * Excel
+   * SQL
+   * Tableau
    
 ### Process:
 Steps:
