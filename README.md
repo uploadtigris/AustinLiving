@@ -1,4 +1,4 @@
-# Project-1
+# Rent v. Own in Austin, TX
 ## Data Analytics project displaying EDA and Visualization skills
 ### Overview:
 ### Process:
