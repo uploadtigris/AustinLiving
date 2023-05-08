@@ -1,8 +1,8 @@
 # Rent v. Own in Austin, TX
 ## Data Analytics project displaying EDA and Visualization skills
 ### Overview:
-#### Data Sets ~
-#### Sites Webscraped ~ 
+#### Data Sets
+#### Sites Webscraped 
 ### Process:
 Steps:
 20 actionable steps to help you create a Data Analysis project using Excel, SQL, and Tableau:
