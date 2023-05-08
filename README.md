@@ -2,7 +2,10 @@
 ## Data Analytics project displaying EDA and Visualization skills
 ### Overview:
 #### Data Sets
+   * https://www.kaggle.com/datasets/ericpierce/austinhousingprices
 #### Sites Webscraped 
+   * Rent Prices: https://www.rentcafe.com/average-rent-market-trends/us/tx/austin/
+   * Average Household Income: https://www.point2homes.com/US/Neighborhood/TX/Austin-Demographics.html
 ### Process:
 Steps:
 20 actionable steps to help you create a Data Analysis project using Excel, SQL, and Tableau:
