@@ -1,6 +1,7 @@
-# Rent v. Own in Austin, TX
+# House Prices in Austin, TX
 ## Data Analytics project displaying Data Cleaning, EDA, and Visualization skills
 ### Overview:
+#### Question: What is the most expensive area in Austin to own a home?
 #### Data Sets
    * Austin, TX House Listings: https://www.kaggle.com/datasets/ericpierce/austinhousingprices
 #### Sites Webscraped 
