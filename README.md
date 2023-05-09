@@ -4,12 +4,8 @@
 #### Question: What is the most expensive area in Austin to own a home?
 #### Data Sets
    * Austin, TX House Listings: https://www.kaggle.com/datasets/ericpierce/austinhousingprices
-#### Sites Webscraped 
-   * Rent Prices: https://www.rentcafe.com/average-rent-market-trends/us/tx/austin/
-   * Average Household Income: https://www.point2homes.com/US/Neighborhood/TX/Austin-Demographics.html
 
 #### Technoligies Used
-   * Python
    * Excel
    * SQL
    * Tableau
