@@ -40,7 +40,3 @@ Steps:
     * Use Tableau's publishing feature to share your analysis with stakeholders or colleagues.
     * Get feedback on your analysis and make any necessary adjustments or improvements.
     * Repeat the process to update your analysis with new data or insights as needed.
-    
- ### Sample Chart ~> "Sales Rankings"
-![image](https://user-images.githubusercontent.com/70561045/236584364-d7191efa-1218-499e-9746-34a24e2007eb.png)
-
