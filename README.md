@@ -37,7 +37,7 @@ The most expensive zipcodes are:
 
 ### Process:
 Steps:
-20 actionable steps to help you create a Data Analysis project using Excel, SQL, and Tableau:
+20 actionable steps to create a Data Analysis project using Excel, SQL, and Tableau:
 
 1. Asses
     * Define the scope of the analysis project and identify the business problem to be solved.
