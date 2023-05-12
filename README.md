@@ -34,7 +34,7 @@ The most expensive zipcodes are:
    
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ### Process:
 Steps:
 20 actionable steps to help you create a Data Analysis project using Excel, SQL, and Tableau:
