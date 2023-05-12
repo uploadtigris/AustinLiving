@@ -7,11 +7,11 @@
 
 #### Technoligies Used
    * Excel
-   * SQL
    * Tableau
 
 #### EDA
 
+House Listing Averages by Zipcode:
 The most expensive zipcodes to purchase a home lie in the west area of Austin.
 
 <img width="881" alt="Screenshot 2023-05-09 at 2 01 58 PM" src="https://github.com/uploadtigris/AustinLiving/assets/70561045/5dfbc84f-765f-4018-bf2e-3a656e0abe0d">
