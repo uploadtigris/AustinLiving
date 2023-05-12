@@ -29,6 +29,8 @@ The most expensive zipcodes are:
 
 <img width="639" alt="Screenshot 2023-05-09 at 2 02 39 PM" src="https://github.com/uploadtigris/AustinLiving/assets/70561045/d0d578ad-dd7f-488b-b1bd-300704a0602e">
 
+78734: "Lakeway" and 78746: "Westlake" are the two areas of Austin who have the highest average listing price, Why is that so?
+
    
 ### Process:
 Steps:
